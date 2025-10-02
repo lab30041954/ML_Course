@@ -12,5 +12,5 @@
 | 18 feb | Image classification | [ML-07] Image classification <br> Example – The MNIST data |
 | 19 feb | Transfer learning | [ML-08] Transfer learning <br> Example - The Dogs vs Cats data |
 | 26 feb | Text embedding | [ML-09] Text embedding <br> Example - Fake news detection |
-| 4 mar | Text generation | [ML-10] Text generation <br> Example - Emotion detection |
+| 4 mar | Text generation | [ML-10] Text generation <br> Example - Example - Tweet sentiment analysis |
 
