@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This assignment is based on the example of the lecture **[ML-01] Logistic regression**. This example is focused on **churn modeling**. The objective of the assignment is to explore how to control the training process in a simple setting like that of the example, trying some variations of the code developed in class.
+This assignment is based on the example of the lecture **[ML-01] Logistic regression**. This example is focused on **churn modeling**. The objective of the assignment is to explore how to control the **training process** in a simple setting like that of the example, trying some variations of the code developed in class.
 
 ## Task
 
