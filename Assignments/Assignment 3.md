@@ -6,7 +6,7 @@ This assignment is based on the example of the lecture **[ML-05] Ensemble models
 
 ## Task
 
-The task is to respond to questions 2 and of the homework proposed at the end of lecture ML-05, considering only the two top models selected, a linear regression model and a gradient boosting model.
+The task is to respond to questions 2 and 3 of the homework proposed at the end of lecture ML-05, considering only the two top models selected, a linear regression model and a gradient boosting model.
 
 ## Submission
 
