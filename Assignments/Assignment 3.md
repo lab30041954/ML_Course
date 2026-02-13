@@ -16,4 +16,4 @@ The task is to respond to questions 2 and 3 of the homework proposed at the end 
 
 ## Deadline
 
-February 17 (Tuesday), 24:00.
+February 17 (Tuesday), 23:59.
