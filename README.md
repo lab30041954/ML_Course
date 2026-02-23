@@ -14,3 +14,15 @@
 | 26 feb | Text embedding | [ML-09] Text embedding <br> Example - Fake news detection |
 | 27 feb | Text generation | [ML-10] Text generation <br> Example - Tweet sentiment analysis |
 
+# Seminario sobre aplicaciones de la IA
+
+| Session | Topic | Documents |
+| :---: | :--- | :--- |
+| 10 abr | 1. Introducción |
+| 10 abr | 2. Modelos de lenguaje |
+| 10 abr | 3. Ingeniería de prompts |
+| 10 abr | 4. Plantillas para prompts |
+| 11 abr | 5. Búsqueda de información |
+| 11 abr | 6. Resúmenes estadísticos y formatos de datos |
+| 11 abr | 7. Tests estadísticos |
+| 11 1br | 8. Discusión |
